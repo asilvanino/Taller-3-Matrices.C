@@ -1,4 +1,5 @@
 #include <stdio.h>
+//pipn = par impar positivo negativo
 int main()
 {
        int matriz [3][3] = {{5,10,-12},{9,-10,6},{8,11,-13}};
